@@ -1,0 +1,30 @@
+body {
+    font-family: Arial;
+    background-color: rgb(red, green, blue);
+}
+
+h1 {
+    color: red;
+}
+.item {
+    background: #87CEFA;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 1px;
+}
+.box {
+    background: #191970;
+    color: white;
+    width: 100px;
+    height: 100px;
+}
+.day {
+    background-color: #B9D3EE;
+}
+.text {
+    font-size: 20px;
+}
+td {
+    width: auto;
+    height: 120px;
+}
