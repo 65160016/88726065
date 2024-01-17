@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
-    const todoList = document.getElementById("todo-list");
-    const todoInput = document.getElementById("todo-input");
-    const addButton = document.getElementById("add-button");
+    const todoList = document.getElementById("todo-list"); //จะเรียกใช้งานจาก id="todo-list" 
+    const todoInput = document.getElementById("todo-input");//จะเรียกใช้งานจาก id="todo-input"
+    const addButton = document.getElementById("add-button");//จะเรียกใช้งานจาก id="add-button"
     // อาร์เรย์ส าหรับเก็บรายการ Todo
     let todos = [];
     // เพิ่มรายการ Todo
